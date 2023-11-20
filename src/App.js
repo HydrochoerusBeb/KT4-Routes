@@ -11,7 +11,7 @@ function App() {
   return (
     <div>
       
-      <Router>
+      <Router basename='/KT4-Routes'>
       <Header/>
         <Routes>
           {/* <Route path='/' element={<HomePage/>}/> */}
